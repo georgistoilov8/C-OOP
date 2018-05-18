@@ -1,0 +1,5 @@
+﻿  order.cpp
+c:\users\gogos\source\repos\project1\project1\order.cpp(75): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+c:\users\gogos\source\repos\project1\project1\order.cpp(268): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+c:\users\gogos\source\repos\project1\project1\order.cpp(308): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\gogos\source\repos\Project1\Debug\Project1.exe
