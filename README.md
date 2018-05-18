@@ -1,2 +1,2 @@
 # C++ OOP
-### Homeworks and tasks for C++ Object-Oriented Programing course in FMI
+### Homeworks and tasks for C++ Object-Oriented Programming course in FMI
