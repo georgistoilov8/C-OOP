@@ -1,5 +1,6 @@
 Example of the program and how to test it:
 
+```
 $: Admin add_user Pesho 21
 Pesho created.
 $: Pesho post [url] http://www.example.com Някакъв пример.
@@ -64,3 +65,4 @@ HTML view for all Gencho’s posts created.
 $: delete system
 Unknown command!
 $: quit
+```
